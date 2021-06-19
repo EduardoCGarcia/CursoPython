@@ -81,7 +81,7 @@ MENU ACTUALIZACIONES
 2. Edad 
 3. Carrera 
 4. Promedio
-5. Salir
+5. Regresar
 """
                 print(menu2)
                 opc2=int(input('Que deseas modificar: '))
